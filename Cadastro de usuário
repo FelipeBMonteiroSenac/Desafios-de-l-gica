@@ -1,0 +1,3 @@
+Crie um sistema de cadastro de usuário que registre as informações de “nome, sexo, endereço, cidade, estado, CEP, telefone, data de nascimento, RG, nome do pai, nome da mãe e grau de escolaridade” do usuário.
+
+O sistema deve exibir as informações do usuário em um texto amigável.
